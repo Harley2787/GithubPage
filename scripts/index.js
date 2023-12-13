@@ -23,9 +23,6 @@ function Cyberpage() {
     location.href="https://harleyb123-lcwc.github.io/cyberpage/index.html"
 }
 
-function Discord(){
-    window.open("https://discord.gg/r24QvX4Xzh", "_blank");
-}
 function CheckMaintenence(IsUnder) {
     if (IsUnder) {
         location.href = "Maintenence.html"
